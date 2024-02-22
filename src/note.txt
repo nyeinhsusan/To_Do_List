@@ -1,0 +1,6 @@
+To Do List 
+use => json server (API / CRUD => create , read , update , delete )
+
+
+fetch , await =>api call
+api call another way => axios  (npm => official api => api, react , vue , react )
